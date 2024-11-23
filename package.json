@@ -1,0 +1,12 @@
+{
+  "name": "pdf-with-parameters",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:cawlanceharon/pdf-with-parameters.git",
+  "author": "Lance Caw <cawlance@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.1",
+    "puppeteer": "^23.9.0"
+  }
+}
